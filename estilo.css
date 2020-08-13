@@ -1,0 +1,102 @@
+#acimalogo{
+	
+	text-align: center;
+}
+body{
+background: black;
+
+}
+
+#section1{
+background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.2)), url("bg1.png") ;
+background-attachment: fixed;
+width: auto;
+height: 500px;
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ text-align: center;
+ color: white;
+}
+#covid{
+	background: red;
+	text-align: center;
+	border: white solid 4px;
+	border-radius: 20px;
+}
+
+#section2{
+background: linear-gradient(black,#cc00cc, black);
+width: auto;
+height: auto;
+text-align: center;
+color:white;
+
+}
+#carouselExampleInterval{
+width: auto;
+height: auto;
+border:solid black 2px;
+ background-size: cover;
+ margin: 20%;
+ margin-top: 1%;
+ margin-bottom: 1%;
+ box-shadow: 10px 5px 5px black;
+
+}
+#section3{
+	background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.2)), url("ceramica.jpg") ;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ text-align: center;
+background-attachment: fixed;
+}
+footer .container-fluid{
+
+	text-align: center;
+	background: linear-gradient(black,black,#cc00cc);
+	color:white;
+	
+}
+
+ label{
+	color:white;
+
+}
+
+#bg{background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.2)), url("ceramica.jpg") ;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ text-align: center;
+background-attachment: fixed;
+
+}
+div .card-img-top{
+	
+	height: 200px;
+}
+#divisa{
+	border:solid black 2px;
+	background-image: linear-gradient(black,#cc00cc)
+	width: 100%;
+	box-shadow: 0px 5px 5px #cc00cc;
+
+
+
+}
+#logorodape{
+	width: 50px;
+	height: 50px;
+	border-radius: 20px;
+}
+#divisa1{
+	border:solid black 2px;
+	background-image: linear-gradient(black,#cc00cc)
+	width: 100%;
+	box-shadow: 0px 5px 5px #cc00cc;
+	position: fixed;
+
+
+}
